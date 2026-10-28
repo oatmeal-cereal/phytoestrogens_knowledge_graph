@@ -6,3 +6,5 @@ Phytoestrogens are plant compounds which are structurally similar to estrogen, a
 Why does this matter? Trans and gender-diverse people may experience dysphoria due to their hormones, and so look to start HRT (hormone replacement therapy). Unfortunately, this is a pipe dream for many, as NHS waiting lists can be over a decade long for a first appointment, and going private can be extremely pricey.
 
 Of course, this is not to say that aromatase inhibition achieved from phytoestrogens would be enough for complete hormone replacement, but can provide an option for those looking to 'microdose'. Well, the full extent to which aromatase inhibition with phytoestrogens can occur is unknown. Pharmaceutical drugs, sure, but not these. No one had ever made a knowledge graph about phytoestrogenic compounds in foods, their concentrations, binding affinities, bioavailabilities, concentrations detected in the blood, etc, at least that I know of.
+
+Don't take the results of this knowledge graph seriously unless you know what you're getting yourself into.
